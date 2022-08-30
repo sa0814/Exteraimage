@@ -16,7 +16,8 @@ Markdown | Less | CSS
 *Still* | `renders` | **on load**
 1 | 2 | 3
 
-![do-matlab-simulink-task-for-you](https://github.mathworks.com/storage/user/1600/files/7c2a11ff-c902-4b3b-a10a-1f06ac7f4ea8)
+![do-matlab-simulink-task-for-you](https://user-images.githubusercontent.com/92997651/187466986-12e5274c-fb28-49d4-b848-8ee0040214d3.jpeg)
+
 
 👀 See the Brain Observatory Toolbox in action, with the EphysDemo and the OphysDemo demonstration live scripts.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg)
