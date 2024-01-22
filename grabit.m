@@ -1,5 +1,6 @@
 function grabit(fname)
-
+%New changese.
+%
 %GRABIT Extracts data points from an image file.
 %
 % GRABIT starts a GUI program for extracting data from an image file.
@@ -128,7 +129,7 @@ zoomInOutPointer = [
    NaN   NaN   NaN     2     2   NaN   NaN   NaN     1     1   NaN   NaN   NaN   NaN   NaN   NaN
  ];
  
-% closed hand pointer (from Jérôme Briot)
+% closed hand pointer (from JÃ©rÃ´me Briot)
 closedHandPointer = [
    NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
    NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
